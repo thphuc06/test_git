@@ -35,7 +35,7 @@ void threeChars(string fileName)   {
     }
     string S;
     while(getline(cin, S)){
-        if(S == "***") continue;
+        if(S == "__") continue;
         cout <<"skibidi";
         cout << "false";
 
