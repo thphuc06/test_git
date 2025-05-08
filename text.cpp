@@ -36,12 +36,7 @@ void threeChars(string fileName)   {
     string S;
     while(getline(cin, S)){
         if(S == "*") break;
-        if(S[0] < S[1] && S[1] < S[2]){
-            cout << "true" << endl;
-        }
-        else{
-            cout << "false" << endl;
-        }
+        cout << "false";
         
     }
     file.close();
