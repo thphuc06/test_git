@@ -36,7 +36,8 @@ void threeChars(string fileName)   {
     string S;
     while(getline(cin, S)){
         if(S == "*") break;
-        cout << "false";
+        cout << "falsdad";
+        cout << "nah bro"
         
     }
     file.close();
