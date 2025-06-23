@@ -2,9 +2,10 @@
 using namespace std;
 
 template <typename T>
-T bdsm(T a)
+T gay(T a, T b)
 {
-    return a + 1; // skibidi
+    return T;
+
 }
 
 template <typename T>
@@ -58,7 +59,7 @@ int main()
         cout << arr[i] << " ";
     }
 
-    cout << sum(3, 5.2);
+    cout << sum(3.0, 5.2);
 
     return 0;
 }
