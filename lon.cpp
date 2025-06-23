@@ -5,6 +5,7 @@ template <typename T>
 T gay(T a, T b)
 {
     return T;
+
 }
 
 template <typename T>
